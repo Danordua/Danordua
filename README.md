@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there! My name is Dan. 🛹
+I'm a beginner Web Developer ready to face new challenges and keep learning!
 
-<!--
-**Danordua/Danordua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🕹  I can work pretty good with JavaScript (especially ES6) and TypeScript. I really enjoy creating Web Apps with React Js and Redux.
+   Also, I can manage myself around OOP and data structures.
+ 
+🌱  I'm on my way to be a Full Stack developer, so right now I'm learning a few things: 
+   - I'm in the process of getting certified as a SQL Developer.
+   - I'm learning Node Js so I can work on the Back End.
+   - I'm getting familiar and studying all about Computer Science.
 
-Here are some ideas to get you started:
+🔎  As I'm still learning a few things, I'd like to collaborate in any Web Dev project or any open source project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬  You can reach me through [Twitter](https://twitter.com/daniel_ordua) or mail: danordua@gmail.com
+
