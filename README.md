@@ -9,6 +9,8 @@ I'm a beginner Web Developer ready to face new challenges and keep learning!
 - I'm learning Node Js so I can work on the Back End.
 - I'm getting familiar and studying all about Computer Science.
 
+
+
 🔎   As I'm still learning a few things, I'd like to collaborate in any Web Dev project or any open source project.
 
 📬   You can reach me through [Twitter](https://twitter.com/daniel_ordua) or mail: danordua@gmail.com
